@@ -11,6 +11,11 @@ npm install
 ``
 npx pegjs -o parser.js grammar.pegjs
 ``
+
 ``
 node main.js (実行したいLuaファイル名)
+``
+
+``
+node src.js
 ``
