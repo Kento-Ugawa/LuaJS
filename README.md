@@ -1,5 +1,6 @@
 # LuaJS
 Lua言語をJavaScriptに変換するAltJSです。
+個人開発で制作しました。
 ## 動かし方
 1. zipファイルを展開
 2. cdコマンドで、Luajsフォルダに移動
